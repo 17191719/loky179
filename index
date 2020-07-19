@@ -1,0 +1,22 @@
+<body
+bgcolor="yellow"
+text="blue"
+background="106754487_3695697997123231_7949820152011751583_o.jpg"
+bgproperties"fixed"
+
+topmargin="50"
+leftmargin="50"
+
+link="green"
+vlink="red"
+alink="blue"
+>
+이 문서는 어쩌구 저쩌구 백종원을 포기하고 작성한 문서입니다<br>
+body 태그에는 bgcolor, 텍스트, 백그라운드, 링크 ,v링크, a링크 등 속성을 설정할 수 있다는데 먼지 모르겟음<br><br>
+
+<a href="https://twitter.com/home"> 트위터 링크도 넣어봄</a?<br><br>
+<a href="https://www.youtube.com/watch?v=HAPilyrEzC4">모던타임즈도 보세요<a><br><br>
+
+아이고 다햇다 ~~~~<br>
+br 이게 엔터같은건가?<br>
+</body>
